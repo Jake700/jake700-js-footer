@@ -13,3 +13,4 @@ Add to a JavaScript Project with the following code:
 import { footer } from 'jake700-js-footer';
 footer('Some Name');
 ```# jake700-js-footer
+# jake700-js-footer
